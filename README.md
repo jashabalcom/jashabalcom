@@ -1,150 +1,109 @@
-# Jasha Balcom  
-**Cloud • AI • SaaS • Real Estate Intelligence • Automation**
+# 👋 Jasha Balcom  
+### Cloud Engineer • AI Product Builder • SaaS Systems Architect  
 
-Former professional athlete turned **Cloud & AI Product Builder**, **Luxury Real Estate Strategist**, and **Automation Architect**.  
-I design and deploy scalable platforms that merge **AWS cloud infrastructure**, **AI-driven intelligence**, **data automation**, and **business strategy**.
+I build **production-grade cloud platforms, AI-powered applications, and scalable SaaS products** used by real businesses, paying customers, and enterprise clients.
 
-I specialize in building **real-world production systems** — not demos — including **multi-tenant SaaS platforms**, **real estate intelligence tools**, **API-driven applications**, and **AI automation workflows**.
-
----
-
-## 🚀 Flagship Project — Dubai Wealth AI  
-**Global Real Estate Intelligence & Investment Platform**
-
-A cloud-powered platform designed to analyze, visualize, and optimize **real estate investment opportunities across Dubai and global markets**.
-
-**Key capabilities:**
-- Real estate market analytics & investor dashboards  
-- AI-powered deal scoring & property insights  
-- Secure multi-user authentication (Supabase Auth)  
-- API-driven data ingestion pipelines  
-- Cloud-hosted database & scalable backend  
-- Automated valuation modeling & financial projections  
-- Investor CRM & portfolio tracking  
-- Performance-optimized frontend with modern UI frameworks  
-
-**Tech Stack:**
-- AWS (Compute, Storage, Identity, API architecture)  
-- Supabase (PostgreSQL, Auth, Storage)  
-- Serverless APIs  
-- AI & LLM-based analytics pipelines  
-- Modern frontend frameworks  
-- Secure multi-tenant architecture  
-
-🔗 Repo: https://github.com/mrvidaboa/dubai-wealth-ai
+My work focuses on **cloud architecture, Supabase/PostgreSQL, serverless APIs, automation pipelines, AI integration, secure authentication, and production-ready system design**.
 
 ---
 
-## 🏗 Additional Production Projects
+## 🚀 Current Focus
 
-### **Balcom Privé — Private Client & Concierge Platform**
-A global luxury client ecosystem integrating **private client CRM**, **property intelligence**, **concierge workflows**, and **secure relationship management**.
-
-### **First Class Construction — CRM & Business Automation Platform**
-A contractor-focused platform for:
-- Lead tracking & pipeline automation  
-- Project management dashboards  
-- Payment workflows  
-- Marketing & growth automation  
-
-### **One Family Financial — Financial Services Automation Stack**
-Systems built for:
-- Client onboarding automation  
-- Secure document workflows  
-- CRM integrations  
-- Funnel optimization & performance tracking  
+- AWS Certified Cloud Practitioner (CCP) — **In Progress**
+- AWS Solutions Architect — **Planned**
+- AWS AI Practitioner — **Planned**
+- AWS Security Specialty — **Planned**
+- Building scalable AI & SaaS platforms in real estate, fintech, hospitality, and sports performance
 
 ---
 
-## ☁️ Cloud & AWS Focus (In Progress)
+## 🧠 What I Build
 
-- **AWS Certified Cloud Practitioner (CCP)** — *In Progress*  
-- **AWS Solutions Architect Associate** — *Planned (60 days)*  
-- **AWS AI Practitioner** — *Planned*  
+### ☁️ Cloud & Backend Systems
+- Serverless APIs & Edge Functions  
+- Supabase + PostgreSQL production backends  
+- Secure authentication & role-based access  
+- Scalable database & data modeling  
+- Payment systems & SaaS subscription infrastructure  
 
-**Hands-on experience with:**
-- Cloud infrastructure design  
-- Serverless backend systems  
-- Secure authentication & identity  
-- API gateways & integrations  
-- Database modeling & performance optimization  
-- Scalable SaaS architecture  
-- AI & automation pipelines  
+### 🤖 AI-Powered Applications
+- AI analytics & decision-support platforms  
+- Generative AI product features  
+- AI assistants & automation agents  
+- Real-world AI integration in production workflows  
+
+### 🧩 SaaS & Product Platforms
+- Subscription-based SaaS products  
+- Community platforms & user engagement systems  
+- CRM pipelines & lead intelligence  
+- Real-world platforms serving paying customers  
 
 ---
 
-## 🧠 AI, Automation & Data Systems
+## 🏆 Featured Production Projects
 
-- AI-powered decision intelligence tools  
-- Workflow automation & backend orchestration  
-- API integrations & system connectors  
-- Generative AI (LLMs, NLP, prompt engineering)  
-- Data pipelines & analytics dashboards  
-- CRM & growth automation (GoHighLevel, marketing stacks)  
+### 🥇 Dubai Wealth AI  
+**AI-powered global real estate & investment intelligence platform**  
+Cloud architecture • Supabase • Serverless • Financial modeling  
+🔗 https://github.com/jashabalcom/dubai-wealth-ai  
+
+### ⚾ Swing Institute  
+**Subscription SaaS athlete training & performance analytics platform**  
+Video coaching • Payments • Community • SaaS infrastructure  
+🔗 https://github.com/jashabalcom/swinginsitute  
+
+### 🏗 First Class ATL Build  
+**AI-driven construction & renovation intelligence platform (Paying Client)**  
+AI visualization • Automation • Lead intelligence  
+🔗 https://github.com/jashabalcom/first-class-atl-build  
+
+### 🍷 Chateau Bevvy  
+**Luxury winery, ecommerce & event booking platform (Paying Client)**  
+Hospitality tech • Booking • POS roadmap  
+🔗 https://github.com/jashabalcom/chateaubevvy  
+
+### 🏦 Tennessee Wealth Guide  
+**High-net-worth fintech & private wealth education platform (Paying Client)**  
+FinTech • Investor education • Secure systems  
+🔗 https://github.com/jashabalcom/tennessee-wealth-guide  
 
 ---
 
 ## 💼 Professional Background
 
-**Global Property Strategist — Atlanta Fine Homes Sotheby’s**  
-- Sold **230+ homes** across luxury, resale, and new construction  
-- Represented a **$40M luxury townhome + retail development**  
-- Built international branding & go-to-market strategy  
-- Top-producing advisor serving global investors  
-
-**Founder — Balcom Privé**  
-- Private global access network for UHNW clients  
-- Real estate, lifestyle capital, and global mobility strategy  
-
-**Founder — AI Automation & Digital Growth Agency**  
-- Funnel systems, paid ads, AI workflows, SaaS builds  
-- Google Ads certified & performance marketing strategist  
-
-**Former Merrill Lynch & E*TRADE — Financial Advisory**  
-- Series 7 & 66 background  
-- Wealth strategy, capital markets, portfolio behavior  
-
-**Former Professional Baseball Player — Chicago Cubs**  
-- Performance psychology, discipline, coaching, mentorship  
-- MLB advisory & elite athlete development  
-- Clients include **Cedric Mullins, Byron Buxton**, and multiple 1st-round draft picks  
+- Former Financial Services Professional — Merrill Lynch & E*TRADE  
+- Founder & Product Engineer — SaaS, AI & Client Platforms  
+- Former Professional Athlete — Performance coaching & analytics background  
+- Experience delivering **enterprise client solutions** across multiple industries  
 
 ---
 
-## 🎥 Media & Unique Experience
+## 🛠 Tech Stack
 
-- Featured on **ESPN**  
-- **Stunt double for Chadwick Boseman** (*42*)  
-- Actor in film **“Undefiled”** (Amazon Prime)  
-- Founder of **Swing Institute & HittersBox** — athlete training & education platforms  
-
----
-
-## 🧩 What I’m Building Now
-
-- Cloud-native SaaS platforms  
-- AI-powered analytics products  
-- Real estate & financial intelligence tools  
-- Automation systems for enterprise workflows  
-- Scalable global investor platforms  
+**Languages:** TypeScript, JavaScript  
+**Cloud:** AWS (in progress), Supabase  
+**Backend:** Serverless APIs, PostgreSQL  
+**AI:** Generative AI, automation agents, analytics pipelines  
+**Payments:** Stripe, SaaS billing systems  
+**Frontend:** React, modern UI systems  
+**Security:** Auth, role-based access, secure env design  
 
 ---
 
-## 🤝 Open To Opportunities
+## 🎯 Career Direction
 
-**Cloud Engineering**  
-**AWS / Solutions Architecture**  
-**AI Product Engineering**  
-**Platform Engineering**  
-**Enterprise Automation**  
-**Delta Corporate Technology Roles**  
-**Remote / Global (Dubai, U.S., Hybrid)**  
-
-📧 Email: jashabalcom@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jashabalcom  
-🐙 GitHub: https://github.com/mrvidaboa  
+I’m pursuing **Cloud Engineer / Solutions Architect / AI Engineer roles**, with a strong interest in:
+- Enterprise cloud platforms (AWS)  
+- AI-driven product teams  
+- Scalable SaaS & fintech systems  
+- Delta Air Lines corporate technology roles  
 
 ---
 
-> *I build scalable systems, not side projects.  
-> I design platforms meant for real users, real revenue, and real impact.*
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jashabalcom  
+- LinkedIn: https://linkedin.com/in/jashabalcom  
+- Email: jashabalcom@gmail.com  
+
+---
