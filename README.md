@@ -1,4 +1,4 @@
-# 👋 Jasha Balcom  
+# 👋🏾 Jasha Balcom  
 ### Cloud Engineer • AI Product Builder • SaaS Systems Architect  
 
 I build **production-grade cloud platforms, AI-powered applications, and scalable SaaS products** used by real businesses, paying customers, and enterprise clients.
@@ -73,7 +73,7 @@ FinTech • Investor education • Secure systems
 
 - Former Financial Services Professional — Merrill Lynch & E*TRADE  
 - Founder & Product Engineer — SaaS, AI & Client Platforms  
-- Former Professional Athlete — Performance coaching & analytics background  
+- Former MLB ⚾️ Professional Athlete — Performance coaching & analytics background  
 - Experience delivering **enterprise client solutions** across multiple industries  
 
 ---
