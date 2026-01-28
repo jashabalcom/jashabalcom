@@ -6,7 +6,6 @@ I build **production-grade cloud platforms, AI-powered applications, and scalabl
 My work focuses on **cloud architecture, Supabase/PostgreSQL, serverless APIs, automation pipelines, AI integration, secure authentication, and production-ready system design**.
 
 ---
-
 ## 🚀 Current Focus
 
 - AWS Certified Cloud Practitioner (CCP) — **In Progress**
@@ -16,7 +15,17 @@ My work focuses on **cloud architecture, Supabase/PostgreSQL, serverless APIs, a
 - Building scalable AI & SaaS platforms in real estate, fintech, hospitality, and sports performance
 
 ---
+## 🛠 Tech Stack
 
+**Languages:** TypeScript, JavaScript  
+**Cloud:** AWS (in progress), Supabase  
+**Backend:** Serverless APIs, PostgreSQL  
+**AI:** Generative AI, automation agents, analytics pipelines  
+**Payments:** Stripe, SaaS billing systems  
+**Frontend:** React, modern UI systems  
+**Security:** Auth, role-based access, secure env design  
+
+---
 ## 🧠 What I Build
 
 ### ☁️ Cloud & Backend Systems
@@ -37,7 +46,6 @@ My work focuses on **cloud architecture, Supabase/PostgreSQL, serverless APIs, a
 - Community platforms & user engagement systems  
 - CRM pipelines & lead intelligence  
 - Real-world platforms serving paying customers  
-
 ---
 
 ## 🏆 Featured Production Projects
@@ -68,27 +76,12 @@ FinTech • Investor education • Secure systems
 🔗 https://github.com/jashabalcom/tennessee-wealth-guide  
 
 ---
-
 ## 💼 Professional Background
 
 - Former Financial Services Professional — Merrill Lynch & E*TRADE  
 - Founder & Product Engineer — SaaS, AI & Client Platforms  
 - Former MLB ⚾️ Professional Athlete — Performance coaching & analytics background  
 - Experience delivering **enterprise client solutions** across multiple industries  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** TypeScript, JavaScript  
-**Cloud:** AWS (in progress), Supabase  
-**Backend:** Serverless APIs, PostgreSQL  
-**AI:** Generative AI, automation agents, analytics pipelines  
-**Payments:** Stripe, SaaS billing systems  
-**Frontend:** React, modern UI systems  
-**Security:** Auth, role-based access, secure env design  
-
----
 
 ## 🎯 Career Direction
 
@@ -97,7 +90,6 @@ I’m pursuing **Cloud Engineer / Solutions Architect / AI Engineer roles**, wit
 - AI-driven product teams  
 - Scalable SaaS & fintech systems  
 - Delta Air Lines corporate technology roles  
-
 ---
 
 ## 📫 Connect With Me
