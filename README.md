@@ -8,7 +8,7 @@ My work focuses on **cloud architecture, Supabase/PostgreSQL, serverless APIs, a
 ---
 ## 🚀 Current Focus
 
-- AWS Certified Cloud Practitioner (CCP) — **In Progress**
+- AWS Certified Cloud Practitioner (CCP) - Feb 2026
 - AWS Solutions Architect — **Planned**
 - AWS AI Practitioner — **Planned**
 - AWS Security Specialty — **Planned**
