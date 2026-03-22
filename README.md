@@ -59,7 +59,8 @@
 
 ### 💼 Professional Background
 
-- **Merrill Lynch & E*TRADE** — Financial services (HNWI clients)
+- **Sotheby's International Realty** — Global Real Estate Advisor (luxury residential, HNWI clients)
+- **Merrill Lynch** — Financial Services & Wealth Management
 - **Former MLB Draft Pick** — Chicago Cubs organization
 - **Founder & Solutions Architect** — Dubai Wealth AI
 
