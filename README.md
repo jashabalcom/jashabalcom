@@ -1,8 +1,8 @@
 ## Hey, I'm Jasha
 
-**Builder · AWS Solutions Architect · Former Pro Athlete**
+**Baseball Technologist · Platform Reliability & Operations · Former Pro Athlete**
 
-I design, build, and ship cloud-native platforms on AWS. Former Chicago Cubs draft pick, Merrill Lynch financial advisor, and baseball academy owner who trained MLB All-Stars. Now I build production SaaS products — from infrastructure to UI to billing.
+I build and operate production cloud platforms, with a focus on sports technology. Former Chicago Cubs prospect, scout, and player agent — 17+ years running baseball programs and developing athletes, including MLB All-Stars. Now I build the tools: markerless pose detection for swing biomechanics, AI swing analysis on AWS, and the reliability engineering that keeps it running.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jashabalcom)
 
@@ -66,4 +66,4 @@ Observability   CloudWatch · X-Ray · Synthetics Canaries · Alarms
 
 ---
 
-*Atlanta Fine Homes Sotheby's International Realty · Former MLB Draft Pick (Chicago Cubs) · Trained All-Star Cedric Mullins & Brandon Marsh · Chadwick Boseman's stunt double in "42" · Building production platforms on AWS*
+*Former MLB Draft Pick (Chicago Cubs) · Scout & player agent · Trained MLB All-Stars Cedric Mullins, Brandon Marsh & Byron Buxton · Chadwick Boseman's stunt double in "42" · Atlanta Fine Homes Sotheby's International Realty · Building production platforms on AWS*
